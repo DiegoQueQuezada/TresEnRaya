@@ -18,6 +18,7 @@ public class TresEnRaya2 extends javax.swing.JFrame {
         System.out.println("Seteando titulo");
         System.out.println("Seteando titulo 2");
         System.out.println("Seteando titulo 3");
+        System.out.println("Seteando titulo 4");
         super.setTitle(title); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/OverriddenMethodBody
     }
 
