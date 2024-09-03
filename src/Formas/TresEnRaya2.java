@@ -99,8 +99,7 @@ public class TresEnRaya2 extends javax.swing.JFrame {
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel1.setText("TRES EN RAYA");
 
-        jButton1.setBackground(new java.awt.Color(255, 255, 255));
-        jButton1.setFont(new java.awt.Font("Russo One", 0, 30)); // NOI18N
+        jButton1.setFont(new java.awt.Font("Russo One", 0, 25)); // NOI18N
         jButton1.setFocusable(false);
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -108,8 +107,7 @@ public class TresEnRaya2 extends javax.swing.JFrame {
             }
         });
 
-        jButton2.setBackground(new java.awt.Color(255, 255, 255));
-        jButton2.setFont(new java.awt.Font("Russo One", 0, 30)); // NOI18N
+        jButton2.setFont(new java.awt.Font("Russo One", 0, 25)); // NOI18N
         jButton2.setFocusable(false);
         jButton2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -117,8 +115,7 @@ public class TresEnRaya2 extends javax.swing.JFrame {
             }
         });
 
-        jButton3.setBackground(new java.awt.Color(255, 255, 255));
-        jButton3.setFont(new java.awt.Font("Russo One", 0, 30)); // NOI18N
+        jButton3.setFont(new java.awt.Font("Russo One", 0, 25)); // NOI18N
         jButton3.setFocusable(false);
         jButton3.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -126,8 +123,7 @@ public class TresEnRaya2 extends javax.swing.JFrame {
             }
         });
 
-        jButton4.setBackground(new java.awt.Color(255, 255, 255));
-        jButton4.setFont(new java.awt.Font("Russo One", 0, 30)); // NOI18N
+        jButton4.setFont(new java.awt.Font("Russo One", 0, 25)); // NOI18N
         jButton4.setFocusable(false);
         jButton4.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -135,8 +131,7 @@ public class TresEnRaya2 extends javax.swing.JFrame {
             }
         });
 
-        jButton5.setBackground(new java.awt.Color(255, 255, 255));
-        jButton5.setFont(new java.awt.Font("Russo One", 0, 30)); // NOI18N
+        jButton5.setFont(new java.awt.Font("Russo One", 0, 25)); // NOI18N
         jButton5.setFocusable(false);
         jButton5.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -144,8 +139,7 @@ public class TresEnRaya2 extends javax.swing.JFrame {
             }
         });
 
-        jButton6.setBackground(new java.awt.Color(255, 255, 255));
-        jButton6.setFont(new java.awt.Font("Russo One", 0, 30)); // NOI18N
+        jButton6.setFont(new java.awt.Font("Russo One", 0, 25)); // NOI18N
         jButton6.setFocusable(false);
         jButton6.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -153,8 +147,7 @@ public class TresEnRaya2 extends javax.swing.JFrame {
             }
         });
 
-        jButton7.setBackground(new java.awt.Color(255, 255, 255));
-        jButton7.setFont(new java.awt.Font("Russo One", 0, 30)); // NOI18N
+        jButton7.setFont(new java.awt.Font("Russo One", 0, 25)); // NOI18N
         jButton7.setFocusable(false);
         jButton7.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -162,8 +155,7 @@ public class TresEnRaya2 extends javax.swing.JFrame {
             }
         });
 
-        jButton8.setBackground(new java.awt.Color(255, 255, 255));
-        jButton8.setFont(new java.awt.Font("Russo One", 0, 30)); // NOI18N
+        jButton8.setFont(new java.awt.Font("Russo One", 0, 25)); // NOI18N
         jButton8.setFocusable(false);
         jButton8.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -171,8 +163,7 @@ public class TresEnRaya2 extends javax.swing.JFrame {
             }
         });
 
-        jButton9.setBackground(new java.awt.Color(255, 255, 255));
-        jButton9.setFont(new java.awt.Font("Russo One", 0, 30)); // NOI18N
+        jButton9.setFont(new java.awt.Font("Russo One", 0, 25)); // NOI18N
         jButton9.setFocusable(false);
         jButton9.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -181,7 +172,6 @@ public class TresEnRaya2 extends javax.swing.JFrame {
         });
 
         jPanel1.setBackground(new java.awt.Color(255, 255, 255));
-        jPanel1.setBorder(null);
 
         jLabel2.setBackground(new java.awt.Color(255, 153, 0));
         jLabel2.setFont(new java.awt.Font("Segoe UI Semibold", 1, 17)); // NOI18N
@@ -249,7 +239,6 @@ public class TresEnRaya2 extends javax.swing.JFrame {
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
-        jButton10.setBackground(new java.awt.Color(255, 255, 255));
         jButton10.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
         jButton10.setForeground(new Color(0,141,240));
         jButton10.setText("De nuevo");
